@@ -1,8 +1,14 @@
 В сборках использовался исходный код из репозитория https://github.com/xmrig/xmrig/releases файлы Source code (zip). Необходимо использовать 64-разрядную версию Windows (x64)
 
-Для майнига или тестирования xmrig.exe рекомендую отключить службы: Microsoft Edge Elevation Service, Microsoft Edge Update Service (edgeupdate) Microsoft Edge Update Service (edgeupdatem) System Guard (Брокер мониторинга среды выполнения System Guard) Microsoft Defender, Обновления Windows.
+Для майнига или тестирования xmrig.exe рекомендую отключить службы: 
+Microsoft Edge Elevation Service, 
+Microsoft Edge Update Service (edgeupdate) 
+Microsoft Edge Update Service (edgeupdatem) 
+System Guard (Брокер мониторинга среды выполнения System Guard) 
+Microsoft Defender, 
+Обновления Windows.
 
-Для майнинга перечисленные службы могут сильно влиять на работу программы xmrig.exe и соответственно, на ваш хешрейт !
+Перечисленные службы могут сильно влиять на работу программы xmrig.exe и соответственно, на ваш хешрейт !
 
 Все файлы были протестированы на Intel Core i5-10500, Intel Xeon E5-2680 v4 и Intel Xeon E5-2690 v4; также они будут работать на процессорах Ryzen. Особой разницы между версиями 6.24.0 6.25.0 6.25.0 нет в новых версиях добавлена поддержка самых новых процессоров. Ваш хешрейт будет зависеть от загруженности вашей Windows фоновыми задачами.
 
